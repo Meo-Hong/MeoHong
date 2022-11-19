@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+https://img.shields.io/github/followers/Wa-Meohong?label=%ED%8C%94%EB%A1%9C%EC%9B%8C&logoColor=blue&style=social
+## 머홍이의 스탯
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wa-Meohong&show_icons=true&theme=dracula&locale=kr)
+
+## 내가 업로드한 언어들
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-Meohong&layout=compact)
+
 <!--
 **Wa-MeoHong/Wa-MeoHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
