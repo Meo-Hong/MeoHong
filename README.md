@@ -1,3 +1,8 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MeoHong's%20Github&fontSize=90)
+ </div>
+ 
 # 방문해주셔서 감사합니다 👋
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWa-Meohong%2Fhit-counter&count_bg=%23D991E9&title_bg=%23260368&icon=1001tracklists.svg&icon_color=%23F5F5F5&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)
@@ -11,6 +16,7 @@
 ## ⚡내 주소들⚡
  <a href="https://steamcommunity.com/profiles/76561198273400974/home/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
  <a href="https://www.instagram.com/meo_h_00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
   <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> **SW-7568-1544-3792**
 
 
@@ -19,6 +25,10 @@
 
 ## 🌱 내가 업로드한 언어들 🌱
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-Meohong&layout=compact)
+
+***링크 제작중***
+
+ <a href="https://github.com/Wa-MeoHong/CDP_Human_tracking" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 ## 💬 ~~시작도 안한~~ 백준 (정복 예정) 💬
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ocarinaofage)
