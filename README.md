@@ -10,6 +10,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/Wa-Meohong?color=blue&logoColor=green&style=social)
 
 항상 고민중인 나🤔 나를 인정해주는 사람을 위해서 일할 것이다. 아직 지금은 나는 싹도 안난 상태. 모든 능력을 개화시킬 그날까지
+나는 결코 쓰러지지 않는다. 누가 뭐라하든 내 뜻을 관철하는 사람이 될 것이다. 
 
 <div align="center">
   
