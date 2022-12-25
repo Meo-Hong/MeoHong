@@ -32,7 +32,7 @@
 
  <a href="https://github.com/Wa-MeoHong/CDP_Human_tracking" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-## 💬 ~~시작도 안한~~ 백준 (정복 예정) 💬
+## 💬 백준 (정복 예정) 💬
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ocarinaofage)
   
   
