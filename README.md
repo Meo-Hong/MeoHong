@@ -9,11 +9,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/Wa-Meohong?label=%ED%8C%94%EB%A1%9C%EC%9B%8C&logoColor=blue&style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Wa-Meohong?color=blue&logoColor=green&style=social)
 
-🤔
+🤔**관심 분야 :** AI, NLP, 백엔드 프로그래밍, Linux.  
 모든 능력을 개화시킬 그날까지 나는 결코 좌절하지 않는다. **누가 뭐라하든 내 뜻을 관철하는 사람이 될 것이다.** 
 
 <div align="center">
-  
+
 ## ⚡내 주소들⚡
  <a href="https://steamcommunity.com/profiles/76561198273400974/home/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
  <a href="https://www.instagram.com/meo_h_00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
