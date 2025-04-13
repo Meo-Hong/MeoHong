@@ -17,20 +17,23 @@
 ## ⚡내 주소들⚡
  <a href="https://steamcommunity.com/profiles/76561198273400974/home/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
  <a href="https://www.instagram.com/meo_h_00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> **SW-7568-1544-3792**
 
 
 ## ✨ 머홍이의 스탯 ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wa-Meohong&show_icons=true&theme=dracula&locale=kr)
 
-## 🌱 내가 업로드한 언어들 🌱
+## 🌱 활용 가능 🌱
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-Meohong&layout=compact)
 
-***링크 제작중***
-
- <a href="https://github.com/Wa-MeoHong/CDP_Human_tracking" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
-
+ <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/PandasDF-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
+ 
+  
 ## 💬 백준 (정복 예정) 💬
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ocarinaofage)
   
