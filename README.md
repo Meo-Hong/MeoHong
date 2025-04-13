@@ -16,7 +16,8 @@
 
 ## ⚡내 주소들⚡
  <a href="https://steamcommunity.com/profiles/76561198273400974/home/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
- <a href="https://www.instagram.com/meo_h_00/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/king_and_friend/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
 
 
 ## ✨ 머홍이의 스탯 ✨
