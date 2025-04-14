@@ -27,13 +27,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-Meohong&layout=compact)
 
  <a><img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+ <br>
  <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/PandasDF-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
+ 
  
 <!--
 ## 💬 백준 (정복 예정) 💬
