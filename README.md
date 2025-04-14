@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Meo-Hong?label=%ED%8C%94%EB%A1%9C%EC%9B%8C&logoColor=blue&style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Meo-Hong?color=blue&logoColor=green&style=social)
 
-🤔**관심 분야 :** AI, NLP, 백엔드 프로그래밍, Linux.  
+🤔**관심 분야 :** AI, NLP, WAS, Linux, DataFrame.  
 모든 능력을 개화시킬 그날까지 나는 결코 좌절하지 않는다. **누가 뭐라하든 내 뜻을 관철하는 사람이 될 것이다.** 
 
 <div align="center">
