@@ -24,7 +24,7 @@
 -->
 
 ## 🌱 활용 가능 🌱
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wa-Meohong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meo-Hong&layout=compact)
 
  <a><img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=Linux&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
